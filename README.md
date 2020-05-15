@@ -1,2 +1,9 @@
 # rtz
 prueba
+##Creditos
+    -Bichitos
+##requerimientos
+| Day     | Meal    | Price |
+| --------|---------|-------|
+| Monday  | pasta   | $6    |
+| Tuesday | chicken | $8    |
