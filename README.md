@@ -1,7 +1,7 @@
 # rtz
 prueba
-##Creditos
-    -Bichitos
+ ## Creditos
+    - Bichitos
 ##requerimientos
 | Day     | Meal    | Price |
 | --------|---------|-------|
