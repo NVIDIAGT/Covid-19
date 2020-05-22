@@ -4,7 +4,7 @@ prueba de errores
     - Bichitos
     - Plaga
     - Libelula
-##requerimientos
+## requerimientos
 | Sowtware   | Version  |       Pagina       |
 | -----------|----------|--------------------|
 | Sqlite     | 1.0.1    | www.sqlite.com     |
@@ -36,3 +36,5 @@ prueba de errores
  - El paciente podra hacer el metodo de pago en linea.
 ## REQUERIMIENTOS NO FUNCIONALES:
  - Los pacientes podran registrarse al sistema a traves de un login y password. -El sistema permitira recordar las contraseñas de los      usuario. -El sistema permitira enviar correos a los pacientes cuando esto haya separado una cita. -El sistema sera amigable con el  publico general. -El sistema sera visualizado y apto el los navegadores: chrome, firefox..
+
+# Modificado por Steve 
